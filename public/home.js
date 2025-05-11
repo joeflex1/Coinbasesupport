@@ -117,11 +117,11 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Nobitex Support is the customer service team for Nobitex, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
+            <p>coinbase Support is the customer service team for coinbase, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
 
-The Nobitex Support team is responsible for:
+The coinbase Support team is responsible for:
 
-1. Answering questions about Nobitex services and features.
+1. Answering questions about coinbase services and features.
 
 2. Resolving issues with accounts, transactions, and payments.
 
@@ -129,7 +129,7 @@ The Nobitex Support team is responsible for:
 
 4. Assisting with technical problems, such as login or connectivity issues.
 
-You can typically contact Nobitex Support through here.</p>
+You can typically contact coinbase Support through here.</p>
           </div>
         `
         break
